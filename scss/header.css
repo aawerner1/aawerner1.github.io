@@ -1,0 +1,28 @@
+.header {
+	height: 100vh;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.header__primary {
+	margin: 0;
+}
+
+.header__secondary {
+	font-weight: normal;
+}
+
+.dot {
+    background-color: cornflowerblue;
+    height: 400px;
+    width: 400px;
+    border-radius: 100%;
+	box-shadow: 3px 7px 9px 1px rgba(3,3,3,.5);
+	position: absolute;
+}
+
+.dot__img img {
+	position: relative;
+	height: 400px;
+}
