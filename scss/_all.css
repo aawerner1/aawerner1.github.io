@@ -1,7 +1,7 @@
-@import "header.css";
-@import "nav.css";
-@import "section.css";
-@import "card.css";
+@import url("header.css");
+@import url("nav.css");
+@import url("section.css");
+@import url("card.css");
 
 
 .body {
