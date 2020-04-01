@@ -1,9 +1,7 @@
-@import 'header.css';
-@import 'nav.css';
-@import 'section.css';
-@import 'card.css';
-
-
+@import "header.css";
+@import "nav.css";
+@import "section.css";
+@import "card.css";
 
 
 .body {
